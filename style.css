@@ -1,4 +1,23 @@
 header {
     background-color: #424E61;
-    color: black;
+    color: white;
+}
+
+.cabacalho-imagem{
+    width: 20%;
+}
+
+.cabacalho{
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabacalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }

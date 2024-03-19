@@ -2,16 +2,8 @@
     margin: 0;
     padding: 0;
 }
-header {
-    background-color: #424E61;
-    color: white;
-}
 
-.cabacalho-imagem{
-    width: 20%;
-}
-
-.cabacalho{
+.cabecalho {
     background-color: #424E61;
     color: white;
     display: flex;
@@ -20,7 +12,11 @@ header {
     padding: 24px 0;
 }
 
-.cabacalho-lista-item{
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
